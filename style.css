@@ -1,0 +1,16 @@
+body {
+    background: #af591d
+}
+.container {
+background: #d52767;
+padding: 100px;
+margin: auto;
+width: 70%;
+margin-top: 5%;
+}
+form {
+    text-align: center;
+}
+button {
+    margin-top: 10px;
+}
